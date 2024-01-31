@@ -1,8 +1,6 @@
  <!-- ### Hi there 👋-->
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Erick</h2>
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koineone)](https://github.com/koineone/github-readme-stats)
 -->
