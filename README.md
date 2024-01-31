@@ -4,8 +4,9 @@
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koineone&show_icons=true&theme=dark&bg_color=0B0B0B&title_color=36FF00&text_color=A9DCFF&icon_color=54A9FE  )
 
+<a href="" rel="nofollow"><img alt="Upwork" src="https://camo.githubusercontent.com/0db711bf9617e5d023dbbfd7187a5733364ac8f88e93540e6101df9748b2ff8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5570576f726b2d3646444134343f7374796c653d666f722d7468652d6261646765266c6f676f3d5570776f726b266c6f676f436f6c6f723d776869746526636f6c6f723d73756363657373" data-canonical-src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&amp;logo=Upwork&amp;logoColor=white&amp;color=success" style="max-width: 100%;"></a>
+<img alt="LinkedIn" src="" style="max-width: 100%;">
 
-<img alt="LinkedIn" src="" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 <!--
 **koineone/koineone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
