@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="./assets/Hand.gif" width='40' align="left"/><h2>Hey there! I'm Erick</h2>
+<img alt="Night Coding" src="./assets/Hand.gif" width='20px' height='40px' align="left"/><h2>Hey there! I'm Erick</h2>
 
 <div style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: auto;">
   <!-- GitHub Stats -->
