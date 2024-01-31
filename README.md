@@ -2,7 +2,7 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koineone)](https://github.com/koineone/github-readme-stats)
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koineone&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=FDA100&text_color=808080&icon_color=008000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koineone&show_icons=true&theme=dark&bg_color=0B0B0B&title_color=00ECFF&text_color=808080&icon_color=32FD00)
 
 
 <picture>
