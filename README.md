@@ -2,7 +2,7 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koineone)](https://github.com/koineone/github-readme-stats)
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koineone&show_icons=true&theme=dark&bg_color=0B0B0B&title_color=00ECFF&text_color=808080&icon_color=54A9FE  )
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koineone&show_icons=true&theme=dark&bg_color=0B0B0B&title_color=36FF00&text_color=808080&icon_color=54A9FE  )
 
 <!--
 **koineone/koineone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
