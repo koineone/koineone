@@ -1,27 +1,3 @@
-<div style="display: flex; flex-direction: column; align-items: center; max-width: 800px; margin: auto; text-align: center;">
-  <img alt="Night Coding" src="./assets/Hand.gif" width='60' style="align-self: flex-start;">
-  <h2>Hey there! I'm Erick</h2>
-
-  <!-- GitHub Stats -->
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=koineone&show_icons=true&theme=dark&bg_color=0B0B0B&title_color=36FF00&text_color=A9DCFF&icon_color=54A9FE" style="max-width: 60%; margin-top: 20px;">
-  <!-- GIF on the right side -->
-  <img alt="Your GIF" src="./assets/thanks.gif" style="max-width: 30%; height: 185px; border: 2px solid white; margin-top: 20px;">
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <img alt="Night Coding" src="./assets/Hand.gif" width='60' align="left"/><h2>Hey there! I'm Erick</h2>
 
