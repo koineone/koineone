@@ -7,7 +7,7 @@
   <!-- GIF on the right side -->
   <img alt="Your GIF" src="./assets/demo.gif" style="max-width: 30%; height: 200px;border: 2px solid white;">
   <img alt="Your GIF" src="./assets/thanks.gif" style="max-width: 30%; height: 185px;border: 2px solid white;">
-  <img alt="Your GIF" src="./assets/logo-01.png" style="max-width: 20%; height: 180px;border: 2px solid white;">
+  <img alt="Your GIF" src="./assets/logo-01.png" style="max-width: 10%; height: 180px;border: 2px solid white;">
 </div>
 
 <div style="display: flex; justify-content: space-between; max-width: 600px; margin: auto;">
