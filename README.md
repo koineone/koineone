@@ -1,7 +1,7 @@
-### Hi there 👋
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koineone)](https://github.com/koineone/github-readme-stats)
--->
+<img alt="Night Coding" src="./assets/Hand Wave.gif" width='60' align="left"/><h2>Hey there! I'm Erick</h2>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koineone&show_icons=true&theme=dark&bg_color=0B0B0B&title_color=36FF00&text_color=A9DCFF&icon_color=54A9FE  )
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koineone&show_icons=true&theme=dark&bg_color=0B0B0B&title_color=36FF00&text_color=A9DCFF&icon_color=54A9FE  )
 
 <div style="display: flex; justify-content: space-between; max-width: 600px; margin: auto;">
