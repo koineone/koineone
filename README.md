@@ -12,7 +12,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=koineone&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=koineone&show_icons=true" style="background-color: #1a1a1a;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koineone&show_icons=true" style="background-color: #808080; color: #008000;" />
 </picture>
 
 
