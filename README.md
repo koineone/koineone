@@ -3,15 +3,9 @@
 <div style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: auto;">
   <!-- GitHub Stats -->
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=koineone&show_icons=true&theme=dark&bg_color=0B0B0B&title_color=36FF00&text_color=A9DCFF&icon_color=54A9FE" style="max-width: 60%;">
-
   <!-- GIF on the right side -->
-  <img alt="Your GIF" src="./assets/g1.gif" style="max-width: 30%; height: 200px;border: 2px solid white;">
+  <img alt="Your GIF" src="./assets/g1.gif" style="max-width: 80%; height: 200px;border: 2px solid white;">
 </div>
-
-<img alt="Your GIF" src="./assets/" style="max-width: 100px; height: 200px;border: 2px solid white;">
-
-
-
 
 <div style="display: flex; justify-content: space-between; max-width: 600px; margin: auto;">
  
