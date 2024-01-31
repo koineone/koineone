@@ -18,6 +18,12 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
   </a>
 
+  <a href="https://www.linkedin.com/in/your-username" rel="nofollow">
+  <img alt="WellFound" src="https://img.shields.io/badge/WellFound-3D3D3D?style=for-the-badge&logoColor=white" style="max-width: 100%; margin-right: 10px;">
+   </a>
+
+
+
   <!-- Instagram Badge -->
   <a href="https://www.instagram.com/your-username" rel="nofollow">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;">
