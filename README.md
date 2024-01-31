@@ -9,7 +9,7 @@
 </div>
 <div style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: auto;">
   <img alt="Your GIF" src="./assets/thanks.gif" style="max-width: 10%; height: 185px;border: 2px solid white;">
-  <img alt="Your GIF" src="./assets/logoskills-01.png" style="max-width: 10%; height: 188px;border: 2px solid white;">
+  <img alt="Your GIF" src="./assets/logoskills-01.png" style="max-width: 10%; height: 190px;border: 2px solid white;">
 </div>
   
 <div style="display: flex; justify-content: space-between; max-width: 600px; margin: auto;">
